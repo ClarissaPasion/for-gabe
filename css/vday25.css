@@ -1,0 +1,53 @@
+body
+{
+    background-color: pink;
+}
+
+.all
+{
+    margin-top: 80px;
+}
+
+img
+{
+    height: 40%;
+    width: 40%;
+    display: block;
+    margin: auto;
+    border: solid 15px white;
+    border-radius: 16px;
+}
+
+h1
+{   background-color: white;
+    border: solid 8px deeppink;
+    border-radius:16px;
+    width: fit-content;
+    text-align: center;
+    color: deeppink;
+    padding: 20px 40px;
+    font-size: 50px;
+    font-family:cursive;
+}
+
+a
+{
+    background-color: white;
+    width: fit-content;
+    border-radius:16px;
+    border: solid 8px deeppink;
+    color: deeppink;
+    
+    text-decoration: none;
+    text-align: center;
+    font-size: 30px;
+    font-family:cursive;
+    
+    padding: 10px 40px;
+    margin: 10px;
+}
+
+div
+{
+    justify-items: center;
+}

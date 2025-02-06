@@ -1,0 +1,40 @@
+body
+{
+    background-color: black;
+}
+
+a
+{
+    background-color: white;
+    padding: 20px;
+    border-radius: 16px;
+    font-size: 25px;
+    font-family: monospace;
+    text-decoration: none;
+    float: left;
+    line-height: 10px;
+    margin: 375px 10px 10px 300px;
+}
+
+a:link 
+{
+  color: black;
+}
+
+a:visited 
+{
+  color: black;
+}
+
+a:hover 
+{
+  color: deeppink;
+}
+
+img
+{
+height: 90%;
+position: absolute;
+right: 0;
+bottom: 0;
+}

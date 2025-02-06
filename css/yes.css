@@ -1,0 +1,46 @@
+body
+{
+    background-color: pink;
+}
+
+h1
+{
+    color: deeppink;
+    padding: 30px 80px;
+    font-size: 45px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.main
+{
+    background-color: white;
+    border-radius: 16px;
+    padding: 90px 50px 90px 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    
+    margin: 100px;
+}
+
+div
+{
+    display: flex;
+    flex-direction: column;
+}
+
+img
+{
+    height: 30%;
+    width: 30%;
+    border-radius: 10px;
+}
+
+.catz
+{
+    height: 75%;
+    width: 75%;
+}
+
